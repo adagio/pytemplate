@@ -2,17 +2,17 @@
 
 ## File structure
 
-.
-├── README.md
-├── source
-|   ├── app.py
-|   ├── setup.py
-    ├── requirements.txt
-|   ├── modules
-|   ├── config
-|   |    └── logging.yml
-|   └── logs
-└── .gitignore
+    .
+    ├── README.md
+    ├── source
+    |   ├── app.py
+    |   ├── setup.py
+    |   ├── requirements.txt
+    |   ├── modules
+    |   ├── config
+    |   |    └── logging.yml
+    |   └── logs
+    └── .gitignore
 
 ## Functionality included
 
