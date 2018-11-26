@@ -18,6 +18,14 @@
 
 - Logging
 
+## Use the template
+
+- Download tar.gz or zip from https://github.com/adagio/pytemplate/releases/latest
+- Uncompress with `unzip` or `tar xzf`
+- Rename to `template`
+- Use, simple as, `cp -r template myproject`
+- `cd myproject`
+
 ## Work inside source folder
 
 - Enter `cd source`
