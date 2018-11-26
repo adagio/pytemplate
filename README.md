@@ -18,6 +18,14 @@
 
 - Logging
 
+## Use the template
+
+    wget https://github.com/adagio/pytemplate/archive/v0.1.tar.gz
+    mv v0.1.tar.gz template.tar.gz
+    tar xzf template.tar.gz
+    cp -r template myproject
+    cd myproject
+
 ## Work inside source folder
 
 - Enter `cd source`
